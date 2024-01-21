@@ -1,0 +1,23 @@
+{% extends "base/base.html" %}
+{% load static %}
+{% block title %}
+    <title>Home</title>
+{% endblock %}
+
+
+{% block content %}
+    <section>
+        <h2>About!</h2>
+        <p>This is the main content of the home page. You can customize this section with your own content.</p>
+        <img src="{% static 'images/avatars/avatar-1.jpg' %}" alt="Italian Trulli">
+    </section>
+
+    <section>
+        <h3>Latest News</h3>
+        <ul>
+            <li><strong>News 1:</strong> Lorem ipsum dolor sit amet.</li>
+            <li><strong>News 2:</strong> Consectetur adipiscing elit.</li>
+            <li><strong>News 3:</strong> Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+        </ul>
+    </section>
+{% endblock %}
