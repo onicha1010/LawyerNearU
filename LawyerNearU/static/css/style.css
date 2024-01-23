@@ -2,4 +2,42 @@ h2 {
   color: blue;
 }
 
-body {background-color: rgb(167, 167, 167);}
+body {
+  background-color: rgb(167, 167, 167);
+}
+
+:root .theme-blue {
+  --config-color-a: #e9eaed;
+  --config-color-b: #dedfe3;
+  --config-color-c: #bbbdc6;
+  --config-color-d: #242b47;
+  --config-color-e: #202740;
+  --config-color-f: #1d2239;
+  --config-color-g: #1b2035;
+  --config-color-h: #161a2b;
+  --config-color-i: #101320;
+  --config-color-j: #0d0f19;
+}
+
+:root .theme-accents {
+  --config-color-k: #faf7f0;
+  --config-color-l: #f8f3e9;
+  --config-color-m: #f1e7d1;
+  --config-color-n: #d1b06b;
+  --config-color-o: #bc9e60;
+  --config-color-p: #a78d56;
+  --config-color-q: #9d8450;
+  --config-color-r: #7d6a40;
+  --config-color-s: #5e4f30;
+  --config-color-t: #493e25;
+}
+
+:root .theme-white {
+  --config-color-u: #ffffff;
+  --config-color-v: #e6e6e6;
+  --config-color-w: #cccccc;
+  --config-color-x: #bfbfbf;
+  --config-color-y: #999999;
+  --config-color-z: #737373;
+  --config-color-v: #595959;
+}
