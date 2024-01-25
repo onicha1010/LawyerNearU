@@ -7,37 +7,37 @@ body {
 }
 
 :root .theme-blue {
-  --config-color-a: #e9eaed;
-  --config-color-b: #dedfe3;
-  --config-color-c: #bbbdc6;
-  --config-color-d: #242b47;
-  --config-color-e: #202740;
-  --config-color-f: #1d2239;
-  --config-color-g: #1b2035;
-  --config-color-h: #161a2b;
-  --config-color-i: #101320;
-  --config-color-j: #0d0f19;
+  --config-color-blue-50: #e9eaed;
+  --config-color-blue-100: #dedfe3;
+  --config-color-blue-200: #bbbdc6;
+  --config-color-blue-300: #242b47;
+  --config-color-blue-400: #202740;
+  --config-color-blue-500: #1d2239;
+  --config-color-blue-600: #1b2035;
+  --config-color-blue-700: #161a2b;
+  --config-color-blue-800: #101320;
+  --config-color-blue-900: #0d0f19;
 }
 
-:root .theme-accents {
-  --config-color-k: #faf7f0;
-  --config-color-l: #f8f3e9;
-  --config-color-m: #f1e7d1;
-  --config-color-n: #d1b06b;
-  --config-color-o: #bc9e60;
-  --config-color-p: #a78d56;
-  --config-color-q: #9d8450;
-  --config-color-r: #7d6a40;
-  --config-color-s: #5e4f30;
-  --config-color-t: #493e25;
+:root .theme-accets {
+  --config-color-yellow-50: #faf7f0;
+  --config-color-yellow-100: #f8f3e9;
+  --config-color-yellow-200: #f1e7d1;
+  --config-color-yellow-300: #d1b06b;
+  --config-color-yellow-400: #bc9e60;
+  --config-color-yellow-500: #a78d56;
+  --config-color-yellow-600: #9d8450;
+  --config-color-yellow-700: #7d6a40;
+  --config-color-yellow-800: #5e4f30;
+  --config-color-yellow-900: #493e25;
 }
 
-:root .theme-white {
-  --config-color-u: #ffffff;
-  --config-color-v: #e6e6e6;
-  --config-color-w: #cccccc;
-  --config-color-x: #bfbfbf;
-  --config-color-y: #999999;
-  --config-color-z: #737373;
-  --config-color-v: #595959;
+:root .theme-whit {
+  --config-color-white-100: #ffffff;
+  --config-color-white-300: #e6e6e6;
+  --config-color-white-400: #cccccc;
+  --config-color-white-500: #bfbfbf;
+  --config-color-white-600: #999999;
+  --config-color-white-700: #737373;
+  --config-color-white-800: #595959;
 }
