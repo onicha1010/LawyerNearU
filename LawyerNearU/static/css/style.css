@@ -2,4 +2,9 @@ h2 {
   color: blue;
 }
 
+.navbar {
+  background-color: rgb(255, 0, 0) !important;
+}
+
+
 body {background-color: rgb(167, 167, 167);}
