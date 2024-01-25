@@ -2,9 +2,6 @@ h2 {
   color: blue;
 }
 
-body {
-  background-color: rgb(167, 167, 167);
-}
 
 :root .theme-blue {
   --blue-50: #e9eaed;
@@ -41,3 +38,10 @@ body {
   --white-700: #737373;
   --white-800: #595959;
 }
+
+.navbar {
+  background-color: rgb(255, 0, 0) !important;
+}
+
+
+body {background-color: rgb(167, 167, 167);}
